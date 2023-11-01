@@ -1,0 +1,7 @@
+{
+  "FieldErrors":{
+    "date": "Fecha inválida",
+    "required": "Debe completar este campo",
+    "UruguayanCI": "Número de documento inválido"
+  }
+}
